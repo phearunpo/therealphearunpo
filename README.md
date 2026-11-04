@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Phearun Po — Developer Profile" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Phearun Po 👋</h1>
+<h1 align="center">Hi, I'm Phearun Po</h1>
 
 <p align="center">
   <strong>Front-End Developer</strong> · Software Engineering Student · AI Enthusiast
