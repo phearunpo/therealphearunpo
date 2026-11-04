@@ -1,7 +1,10 @@
 # Phearun Po
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=ENGINEERING%20INTELLIGENCE&fontSize=32&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&desc=Software%20%7C%20AI%20%7C%20Systems&descAlignY=70&descSize=16" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/therealphearunpo/therealphearunpo/main/banner.png"
+  width="100%"
+  alt="myBanner"
+/>
 </p>
 
 <p align="center">
