@@ -1,153 +1,193 @@
-# </>
 # Phearun Po
 
-### Software Engineer • AI Engineer • Systems Builder
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=ENGINEERING%20INTELLIGENCE&fontSize=32&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&desc=Software%20%7C%20AI%20%7C%20Systems&descAlignY=70&descSize=16" width="100%" />
+</p>
 
-Building intelligent applications, scalable software systems, and modern digital experiences through engineering, innovation, and continuous learning.
+<p align="center">
+  <b>Information Technology Engineering Student | AI Researcher | Software Engineer in Progress</b>
+</p>
 
----
-
-## About Me
-
-I'm an Information Technology Engineering student passionate about solving real-world problems through software engineering and artificial intelligence.
-
-My focus extends beyond writing code. I enjoy designing systems, optimizing performance, building reliable architectures, and developing software that creates meaningful impact.
-
-### Current Interests
-
-- Software Engineering
-- Full-Stack Development
-- Artificial Intelligence
-- Machine Learning
-- OCR & Computer Vision
-- System Design
-- Cloud Computing
-- Database Engineering
+<p align="center">
+  <a href="https://github.com/therealphearunpo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-0D1117?style=for-the-badge&logo=target&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Location-Cambodia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" />
+</p>
 
 ---
 
-## Technology Stack
+## `01` — Engineering Profile
+
+I am an Information Technology Engineering student interested in building intelligent applications and reliable software systems.
+
+My engineering interests focus on the intersection of **Artificial Intelligence, Software Engineering, and Computer Science fundamentals**.
+
+I enjoy exploring how machine learning models, algorithms, and software architectures can be combined to solve practical problems.
+
+My goal is to develop from an engineering student into an engineer capable of designing, implementing, and deploying production-ready intelligent systems.
+
+```python
+class Engineer:
+    def __init__(self):
+        self.name = "Phearun Po"
+        self.field = "Information Technology Engineering"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Software Engineering",
+            "System Design"
+        ]
+
+    def mission(self):
+        return "Engineer intelligent systems that solve real-world problems."
+```
+
+---
+
+## `02` — Technical Domains
+
+| Domain | Areas of Interest |
+|---|---|
+| Artificial Intelligence | Machine Learning, NLP, LLMs |
+| Software Engineering | System Architecture, Design Patterns |
+| Backend Engineering | REST APIs, Authentication, Business Logic |
+| Data Engineering | Database Design, Data Processing |
+| Computer Science | Data Structures, Algorithms, Networking |
+| Intelligent Applications | OCR, Document Intelligence, AI Applications |
+
+---
+
+## `03` — Technology Stack
 
 ### Programming Languages
 
-```text
-C • C++ • Java • Python • JavaScript • PHP • SQL
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php" />
+</p>
 
-### Frontend Development
+### AI & Machine Learning
 
-```text
-React.js
-HTML5
-CSS3
-Bootstrap
-Responsive Web Design
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-### Backend Development
+**Core Areas:** Machine Learning · Natural Language Processing · Generative AI · Computer Vision · Model Evaluation
 
-```text
-Laravel
-Node.js
-REST APIs
-Authentication Systems
-```
+### Software & Web Engineering
 
-### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css,bootstrap" />
+</p>
 
-```text
-MySQL
-Database Design
-Query Optimization
-Data Modeling
-```
+### Database & Infrastructure
 
-### AI & Intelligent Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,vscode" />
+</p>
 
-```text
-Machine Learning
-Computer Vision
-OCR Systems
-Natural Language Processing
-AWS SageMaker
-AI Application Development
-```
+### Cloud & Development Tools
 
-### DevOps & Engineering Tools
-
-```text
-Git
-GitHub
-Docker
-Linux
-WSL
-VS Code
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash" />
+</p>
 
 ---
 
-## Engineering Philosophy
-
-- Build solutions that are scalable and maintainable.
-- Focus on fundamentals before frameworks.
-- Design systems with long-term reliability in mind.
-- Continuously learn, improve, and innovate.
-- Transform complex problems into simple and effective solutions.
-
----
-
-## Featured Projects
+## `04` — Selected Engineering Projects
 
 ### Khmer OCR Document Intelligence
 
-An AI-powered document management platform focused on Khmer character recognition, document digitization, and intelligent information extraction.
+An intelligent document processing concept focused on Khmer text recognition, document digitization, and information extraction.
 
-**Core Technologies**
-- Python
-- OCR
-- Machine Learning
-- NLP
+**Engineering Focus**
+- Khmer language processing
+- Optical Character Recognition
+- Document data extraction
+- AI-powered document workflows
 
----
+**Technologies:** Python · OCR · Machine Learning · NLP
 
 ### Data Structure Visualizer
 
-An interactive learning platform for visualizing algorithms and data structures to improve understanding of computer science fundamentals.
+An interactive application designed to demonstrate fundamental data structures and algorithms through visual representations.
 
-**Core Technologies**
-- JavaScript
-- Data Structures
-- Algorithms
-- Web Technologies
+**Engineering Focus**
+- Algorithm visualization
+- Data structure implementation
+- Interactive learning
+- Computer Science fundamentals
+
+**Technologies:** JavaScript · Algorithms · Data Structures · Web Technologies
+
+### Khmer IT Question Answering System
+
+An AI research project exploring how English-language IT knowledge can be used to answer basic IT questions in Khmer.
+
+**Engineering Focus**
+- Knowledge retrieval
+- English-to-Khmer translation
+- Natural Language Processing
+- Retrieval-Augmented Generation (RAG)
+- Evaluation of Khmer AI responses
+
+**Technologies:** Python · NLP · LLMs · Machine Learning
 
 ---
 
-### Full-Stack Web Applications
-
-Developing modern web platforms with a strong focus on performance, architecture, user experience, and maintainability.
-
----
-
-## Currently Learning
+## `05` — Engineering Principles
 
 ```text
-Software Architecture
-System Design
-Design Patterns
-Cloud Computing
-Machine Learning
-Artificial Intelligence
-Distributed Systems
+01. Understand the problem before implementing the solution.
+02. Build on strong computer science fundamentals.
+03. Prefer maintainable architecture over unnecessary complexity.
+04. Validate systems through testing and measurable evaluation.
+05. Use AI as an engineering tool, not a replacement for understanding.
+06. Continuously improve through research, experimentation, and iteration.
 ```
 
 ---
 
-## Career Goal
+## `06` — Current Research & Learning
 
-To become a highly skilled Software Engineer specializing in intelligent systems, scalable applications, and AI-powered solutions that solve meaningful real-world challenges.
+My current learning direction focuses on developing practical AI engineering skills.
+
+- Machine Learning foundations
+- Natural Language Processing
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation
+- AI application development
+- Software architecture and system design
+- Model deployment and evaluation
+
+I am especially interested in building AI applications that make technology and information more accessible to Khmer-speaking users.
 
 ---
 
-## Continuous Growth
+## `07` — GitHub Analytics
 
-> "Great software isn't built by writing more code. It's built by understanding problems, designing systems, and delivering reliable solutions."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealphearunpo&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealphearunpo&theme=github-dark-blue&hide_border=true" width="100%" />
+</p>
+
+---
+
+## `08` — Engineering Vision
+
+> Engineering is not only about writing code. It is about understanding problems, designing systems, validating solutions, and continuously improving the way technology works.
+
+I am committed to learning, experimenting, and building software that creates meaningful impact.
+
+<p align="center">
+  <b>Learn → Design → Build → Evaluate → Improve</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=80&section=footer&text=Building%20Intelligent%20Systems&fontSize=20&fontColor=58A6FF" width="100%" />
+</p>
