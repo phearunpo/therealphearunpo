@@ -21,7 +21,7 @@
 
 ---
 
-## `01` — Engineering Profile
+## `01`/ Engineering Profile
 
 I am an Information Technology Engineering student interested in building intelligent applications and reliable software systems.
 
@@ -49,7 +49,7 @@ class Engineer:
 
 ---
 
-## `02` — Technical Domains
+## `02`/ Technical Domains
 
 | Domain | Areas of Interest |
 |---|---|
@@ -62,7 +62,7 @@ class Engineer:
 
 ---
 
-## `03` — Technology Stack
+## `03`/ Technology Stack
 
 ### Programming Languages
 
@@ -98,7 +98,7 @@ class Engineer:
 
 ---
 
-## `04` — Selected Engineering Projects
+## `04`/ Selected Engineering Projects
 
 ### Khmer OCR Document Intelligence
 
@@ -139,7 +139,7 @@ An AI research project exploring how English-language IT knowledge can be used t
 
 ---
 
-## `05` — Engineering Principles
+## `05`/ Engineering Principles
 
 ```text
 01. Understand the problem before implementing the solution.
@@ -152,7 +152,7 @@ An AI research project exploring how English-language IT knowledge can be used t
 
 ---
 
-## `06` — Current Research & Learning
+## `06`/ Current Research & Learning
 
 My current learning direction focuses on developing practical AI engineering skills.
 
@@ -168,7 +168,7 @@ I am especially interested in building AI applications that make technology and 
 
 ---
 
-## `07` — GitHub Analytics
+## `07`/ GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
@@ -181,7 +181,7 @@ I am especially interested in building AI applications that make technology and 
 
 ---
 
-## `08` — Engineering Vision
+## `08`/ Engineering Vision
 
 > Engineering is not only about writing code. It is about understanding problems, designing systems, validating solutions, and continuously improving the way technology works.
 
