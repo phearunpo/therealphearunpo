@@ -2,16 +2,15 @@
   <img src="./banner.png" alt="Phearun Po — Developer Profile" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Phearun Po</h1>
+<h1 align="center">PHEARUN PO</h1>
 
 <p align="center">
-  <strong>Front-End Developer</strong> · Software Engineering Student · AI Enthusiast
+  <code>Front-End Developer</code> · <code>Software Engineering Student</code> · <code>AI Enthusiast</code>
 </p>
 
 <p align="center">
-  I enjoy building modern, responsive, and user-friendly applications.
-  I'm continuously strengthening my software engineering fundamentals
-  while exploring full-stack development and AI engineering.
+  Building modern, responsive, user-friendly applications.<br>
+  Strengthening engineering fundamentals while exploring full-stack development and AI engineering.
 </p>
 
 <p align="center">
@@ -19,6 +18,21 @@
     <img src="https://img.shields.io/badge/GitHub-therealphearunpo-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
+
+---
+
+## `00 // SPEC SHEET`
+
+| Field | Value |
+|---|---|
+| **Name** | Phearun Po |
+| **Role** | Front-End Developer |
+| **Discipline** | Software Engineering (student) |
+| **Interests** | Full-stack development · AI engineering |
+| **Primary stack** | JavaScript · React |
+| **Secondary stack** | Python · PHP · Laravel |
+| **Tooling** | Git · GitHub |
+| **Status** | `ONLINE` — learning, building, shipping |
 
 ---
 
@@ -34,29 +48,63 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+### System layers
+
+```mermaid
+flowchart LR
+    A["Front-End<br/>JavaScript · React"] --> B["Back-End<br/>PHP · Laravel · Python"]
+    B --> C["Data<br/>Database design"]
+    B --> D["AI Layer<br/>Practical AI-powered apps"]
+    E["Foundations<br/>Data structures · Algorithms · CS"] -.-> A
+    E -.-> B
+```
+
+---
+
 ## `02 // CURRENT FOCUS`
 
-- Building clean, responsive front-end experiences.
-- Improving JavaScript and modern web development skills.
-- Strengthening data structures, algorithms, and computer science fundamentals.
-- Exploring backend development and database design.
-- Learning how to build practical AI-powered applications.
+```text
+MODULE                                              STATE
+────────────────────────────────────────────────────────────
+[■■■■■■■■□□] Clean, responsive front-end            ACTIVE
+[■■■■■■■□□□] JavaScript & modern web development    ACTIVE
+[■■■■■■□□□□] Data structures, algorithms, CS core   ACTIVE
+[■■■■□□□□□□] Backend development & database design  EXPLORING
+[■■■■□□□□□□] Practical AI-powered applications      EXPLORING
+```
+
+> Progress bars are an informal self-assessment, not a measured metric.
+
+---
 
 ## `03 // FEATURED PROJECTS`
 
-| Project | Overview | Main technology |
-|---|---|---|
-| [Data Structure Visualizer](https://github.com/therealphearunpo/data-structure-visualizer) | A project focused on visualizing data structures. | JavaScript |
-| [Khmer OCR Document Management](https://github.com/therealphearunpo/Khmer-OCR-Document-Management-) | A project focused on Khmer OCR and document management. | Blade |
+| ID | Project | Overview | Main technology |
+|---|---|---|---|
+| `P-01` | [Data Structure Visualizer](https://github.com/therealphearunpo/data-structure-visualizer) | A project focused on visualizing data structures. | JavaScript |
+| `P-02` | [Khmer OCR Document Management](https://github.com/therealphearunpo/Khmer-OCR-Document-Management-) | A project focused on Khmer OCR and document management. | Blade |
 
-## `04 // GITHUB ACTIVITY`
+---
+
+## `04 // ENGINEERING PRINCIPLES`
+
+1. **Build with curiosity.** Start from the question, not the framework.
+2. **Learn by doing.** Ship small, iterate, refactor.
+3. **Fundamentals first.** Data structures and algorithms underpin everything.
+4. **Improve every day.** Small, consistent increments compound.
+
+---
+
+## `05 // GITHUB TELEMETRY`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="Phearun's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealphearunpo&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages">
 </p>
 
-## `05 // CONNECT`
+---
+
+## `06 // CONNECT`
 
 <p align="center">
   <a href="https://github.com/therealphearunpo">
@@ -65,5 +113,5 @@
 </p>
 
 <p align="center">
-  <em>Build with curiosity. Learn by doing. Improve every day.</em>
+  <code>Build with curiosity. Learn by doing. Improve every day.</code>
 </p>
