@@ -1,132 +1,149 @@
 # Phearun Po
 
 <p align="center">
-  <b>IT Engineering Student | AI Researcher | Aspiring Software Engineer</b>
+  <strong>IT Engineering Student | AI Research | Software Engineering</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/therealphearunpo">GitHub</a> • AI & Software Engineering • Cambodia
+  <a href="https://github.com/therealphearunpo">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub Profile">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Cambodia-blue?style=flat-square" alt="Cambodia">
 </p>
 
 ---
 
-## Engineering Profile
+## 01. PROFILE
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### About Me
-- IT Engineering Student at RUPP
-- Aspiring Software Engineer
-- AI Research Enthusiast
-- Building intelligent applications
+**EDUCATION**
+- Royal University of Phnom Penh
+- Information Technology Engineering
+- Year 3 Student
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-### Interests
+**ENGINEERING**
 - Artificial Intelligence
-- Machine Learning & NLP
-- Software Architecture
-- Full-Stack Development
+- Machine Learning
+- Software Development
+- System Architecture
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-## Technology Stack
+## 02. TECHNOLOGY STACK
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### Programming
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php" />
+**PROGRAMMING**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php" alt="Programming Languages">
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**AI / MACHINE LEARNING**
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and Machine Learning">
 
-</td>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,aws" />
+**WEB DEVELOPMENT**
 
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css,bootstrap" alt="Web Development">
+
+    </td>
+    <td width="50%" valign="top">
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,aws" alt="Tools and Infrastructure">
+
+    </td>
+  </tr>
 </table>
 
-## Featured Projects
+## 03. SELECTED PROJECTS
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### Khmer Neural TTS
-Khmer text-to-speech research and development.
+**Khmer Neural TTS**
 
-**Python · Deep Learning · NLP**
+Khmer speech synthesis and neural TTS research.
 
-</td>
-<td width="50%" valign="top">
+`Python` `Deep Learning` `NLP`
 
-### Khmer OCR System
-Intelligent Khmer document processing and information extraction.
+    </td>
+    <td width="50%" valign="top">
 
-**OCR · AI · React · Laravel**
+**Khmer OCR System**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Khmer document recognition and information extraction.
 
-### Data Structure Visualizer
+`OCR` `AI` `Laravel`
+
+[Repository](https://github.com/therealphearunpo/Khmer-OCR-Document-Management-)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Khmer IT QA System**
+
+Khmer question answering using AI and knowledge retrieval.
+
+`Python` `LLM` `RAG`
+
+    </td>
+    <td width="50%" valign="top">
+
+**Data Structure Visualizer**
+
 Interactive algorithm and data structure visualization.
 
-**JavaScript · Algorithms**
+`JavaScript` `Algorithms`
 
-</td>
-<td width="50%" valign="top">
-
-### Khmer IT QA System
-AI-powered IT question answering in Khmer.
-
-**Python · NLP · LLM · RAG**
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-## Current Focus
+## 04. CURRENT FOCUS
 
-| AI Engineering | Software Engineering |
+| AI ENGINEERING | SOFTWARE ENGINEERING |
 |---|---|
 | Machine Learning | Data Structures & Algorithms |
-| NLP & Generative AI | System Architecture |
-| LLMs & RAG | Full-Stack Development |
-| Model Evaluation | API & Database Design |
+| Natural Language Processing | Backend Development |
+| Generative AI & LLMs | System Architecture |
+| Retrieval-Augmented Generation | Full-Stack Development |
+| Model Evaluation | Database Engineering |
 
-## GitHub Analytics
+## 05. GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealphearunpo&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealphearunpo&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages">
 </p>
 
 ---
 
 <p align="center">
-  <b>Learn | Design | Build | Evaluate | Improve</b>
+  <strong>LEARN | DESIGN | BUILD | EVALUATE | IMPROVE</strong>
+</p>
+
+<p align="center">
+  <sub>Building Intelligent Systems.</sub>
 </p>
