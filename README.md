@@ -1,51 +1,117 @@
 # Phearun Po
 
 <p align="center">
-  **Information Technology Engineering Student | AI Researcher | Software Engineer**
+  <b>IT Engineering Student | AI Researcher | Aspiring Software Engineer</b>
 </p>
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/therealphearunpo)
-  ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Software-blue?style=flat-square)
-  ![Location](https://img.shields.io/badge/Location-Cambodia-red?style=flat-square)
+  <a href="https://github.com/therealphearunpo">GitHub</a> • AI & Software Engineering • Cambodia
 </p>
 
 ---
 
 ## Engineering Profile
 
-| **About Me** | **Engineering Interests** |
-|---|---|
-| IT Engineering Student at RUPP | Artificial Intelligence |
-| Aspiring Software Engineer | Machine Learning & NLP |
-| AI Research Enthusiast | System Design |
-| Building intelligent applications | Backend & Full-Stack Development |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### About Me
+- IT Engineering Student at RUPP
+- Aspiring Software Engineer
+- AI Research Enthusiast
+- Building intelligent applications
+
+</td>
+<td width="50%" valign="top">
+
+### Interests
+- Artificial Intelligence
+- Machine Learning & NLP
+- Software Architecture
+- Full-Stack Development
+
+</td>
+</tr>
+</table>
 
 ## Technology Stack
 
-| **Languages** | **AI / ML** |
-|---|---|
-| Python · C++ · Java · JavaScript · PHP | PyTorch · TensorFlow · Scikit-learn |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| **Web Engineering** | **Infrastructure** |
-|---|---|
-| React · Node.js · Laravel · HTML · CSS | MySQL · PostgreSQL · Docker · Linux · Git · AWS |
+### Programming
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php" />
+
+</td>
+<td width="50%" valign="top">
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css" />
+
+</td>
+<td width="50%" valign="top">
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,aws" />
+
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
-| **Data Structure Visualizer** | **Khmer IT QA System** |
-|---|---|
-| Interactive visualization of algorithms and data structures. | AI-powered IT question answering in Khmer. |
-| JavaScript · Algorithms | Python · NLP · LLM · RAG |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| **Khmer Neural TTS** | **Khmer OCR System** |
-|---|---|
-| Khmer text-to-speech research and development. | Intelligent Khmer document processing and information extraction. |
-| Python · Deep Learning · TTS | OCR · AI · React · Laravel |
+### Khmer Neural TTS
+Khmer text-to-speech research and development.
+
+**Python · Deep Learning · NLP**
+
+</td>
+<td width="50%" valign="top">
+
+### Khmer OCR System
+Intelligent Khmer document processing and information extraction.
+
+**OCR · AI · React · Laravel**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Data Structure Visualizer
+Interactive algorithm and data structure visualization.
+
+**JavaScript · Algorithms**
+
+</td>
+<td width="50%" valign="top">
+
+### Khmer IT QA System
+AI-powered IT question answering in Khmer.
+
+**Python · NLP · LLM · RAG**
+
+</td>
+</tr>
+</table>
 
 ## Current Focus
 
-| **AI Engineering** | **Software Engineering** |
+| AI Engineering | Software Engineering |
 |---|---|
 | Machine Learning | Data Structures & Algorithms |
 | NLP & Generative AI | System Architecture |
@@ -62,9 +128,5 @@
 ---
 
 <p align="center">
-  **Learn | Design | Build | Evaluate | Improve**
-</p>
-
-<p align="center">
-  *Building Intelligent Systems.*
+  <b>Learn | Design | Build | Evaluate | Improve</b>
 </p>
