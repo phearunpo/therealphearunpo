@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Information Technology Engineering | AI Research | Software Engineering</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=40&amp;lines=Information+Technology+Engineering;AI+Research;Software+Engineering" alt="Information Technology Engineering | AI Research | Software Engineering">
 </p>
 
 <p align="center">
@@ -15,26 +15,42 @@
   <img src="https://img.shields.io/badge/Location-Cambodia-blue?style=flat-square" alt="Location: Cambodia">
 </p>
 
----
+```bash
+$ whoami
+phearun-po
 
-## 01. Engineering Profile
-
-**Education**
-Royal University of Phnom Penh, Information Technology Engineering (Year 3)
-
-**Interests**
-Artificial Intelligence · Software Engineering · Intelligent Systems
+$ cat /etc/motto
+learn | design | build | evaluate | improve
+```
 
 ---
 
-## 02. Technology Stack
+## 01 / Engineering Profile
 
-| | |
-|---|---|
-| **Programming** | Python · C · C++ · Java · JavaScript · PHP |
-| **AI / ML** | PyTorch · TensorFlow · Scikit-learn |
-| **Web** | React · Node.js · Laravel · HTML · CSS |
-| **Data & Infrastructure** | MySQL · PostgreSQL · Docker · Linux · Git · AWS |
+```yaml
+education:
+  university: Royal University of Phnom Penh
+  major: Information Technology Engineering
+  year: 3
+
+interests:
+  - Artificial Intelligence
+  - Software Engineering
+  - Intelligent Systems
+```
+
+---
+
+## 02 / Technology Stack
+
+```python
+stack = {
+    "programming": ["Python", "C", "C++", "Java", "JavaScript", "PHP"],
+    "ai_ml":       ["PyTorch", "TensorFlow", "Scikit-learn"],
+    "web":         ["React", "Node.js", "Laravel", "HTML", "CSS"],
+    "data_infra":  ["MySQL", "PostgreSQL", "Docker", "Linux", "Git", "AWS"],
+}
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,pytorch,tensorflow,react,nodejs,laravel,mysql,postgres,docker,linux,git,github,aws&amp;perline=9" alt="Development tools">
@@ -42,18 +58,22 @@ Artificial Intelligence · Software Engineering · Intelligent Systems
 
 ---
 
-## 03. Current Focus
+## 03 / Current Focus
 
-- Machine Learning
-- Natural Language Processing
-- Generative AI and LLMs
-- Retrieval-Augmented Generation
-- Full-Stack Development
-- System Design
+```python
+focus = [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Generative AI & LLMs",
+    "Retrieval-Augmented Generation",
+    "Full-Stack Development",
+    "System Design",
+]
+```
 
 ---
 
-## 04. GitHub Analytics
+## 04 / GitHub Analytics
 
 <p align="center">
   <picture>
@@ -70,10 +90,6 @@ Artificial Intelligence · Software Engineering · Intelligent Systems
 </p>
 
 ---
-
-<p align="center">
-  <strong>LEARN | DESIGN | BUILD | EVALUATE | IMPROVE</strong>
-</p>
 
 <p align="center">
   <sub>BUILDING INTELLIGENT SYSTEMS.</sub>
