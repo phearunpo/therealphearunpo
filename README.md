@@ -62,6 +62,13 @@ Artificial Intelligence · Software Engineering · Intelligent Systems
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=therealphearunpo&amp;theme=github_dark&amp;hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=therealphearunpo&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="480">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
