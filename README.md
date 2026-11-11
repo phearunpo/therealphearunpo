@@ -181,9 +181,8 @@ I am especially interested in building AI applications that make technology and 
 
 ---
 
-## `08`/ Engineering Vision
+## `00`/ Engineering Vision
 
-> Engineering is not only about writing code. It is about understanding problems, designing systems, validating solutions, and continuously improving the way technology works.
 
 I am committed to learning, experimenting, and building software that creates meaningful impact.
 
