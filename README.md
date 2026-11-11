@@ -1,12 +1,5 @@
 # Phearun Po
 
-<img
-  src="https://raw.githubusercontent.com/therealphearunpo/therealphearunpo/main/banner.png"
-  width="100%"
-  alt="myBanner"
-/>
-</p>
-
 <p align="center">
   <b>Information Technology Engineering Student | AI Researcher | Software Engineer in Progress</b>
 </p>
@@ -49,7 +42,7 @@ class Engineer:
 
 ---
 
-## `02`/ Technical Domains
+## `00`/ Technical Domains
 
 | Domain | Areas of Interest |
 |---|---|
@@ -62,7 +55,7 @@ class Engineer:
 
 ---
 
-## `03`/ Technology Stack
+## `00`/ Technology Stack
 
 ### Programming Languages
 
@@ -98,20 +91,6 @@ class Engineer:
 
 ---
 
-## `04`/ Selected Engineering Projects
-
-### Khmer OCR Document Intelligence
-
-An intelligent document processing concept focused on Khmer text recognition, document digitization, and information extraction.
-
-**Engineering Focus**
-- Khmer language processing
-- Optical Character Recognition
-- Document data extraction
-- AI-powered document workflows
-
-**Technologies:** Python · OCR · Machine Learning · NLP
-
 ### Data Structure Visualizer
 
 An interactive application designed to demonstrate fundamental data structures and algorithms through visual representations.
@@ -139,20 +118,8 @@ An AI research project exploring how English-language IT knowledge can be used t
 
 ---
 
-## `05`/ Engineering Principles
 
-```text
-01. Understand the problem before implementing the solution.
-02. Build on strong computer science fundamentals.
-03. Prefer maintainable architecture over unnecessary complexity.
-04. Validate systems through testing and measurable evaluation.
-05. Use AI as an engineering tool, not a replacement for understanding.
-06. Continuously improve through research, experimentation, and iteration.
-```
-
----
-
-## `06`/ Current Research & Learning
+## `00`/ Current Research & Learning
 
 My current learning direction focuses on developing practical AI engineering skills.
 
@@ -168,7 +135,7 @@ I am especially interested in building AI applications that make technology and 
 
 ---
 
-## `07`/ GitHub Analytics
+## `00`/ GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
