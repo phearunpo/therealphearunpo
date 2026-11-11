@@ -42,18 +42,7 @@ Artificial Intelligence · Software Engineering · Intelligent Systems
 
 ---
 
-## 03. Selected Projects
-
-| Project | Focus | Status |
-|---|---|---|
-| **Khmer Neural TTS** | Khmer speech synthesis research | Research, in progress |
-| [**Khmer OCR System**](https://github.com/therealphearunpo/Khmer-OCR-Document-Management-) | Khmer document intelligence | Public repo |
-| **Khmer IT QA** | Khmer question answering with NLP and RAG | Research, in progress |
-| [**DSA Visualizer**](https://github.com/therealphearunpo/data-structure-visualizer) | Data structure and algorithm visualization | Public repo |
-
----
-
-## 04. Current Focus
+## 03. Current Focus
 
 - Machine Learning
 - Natural Language Processing
@@ -64,7 +53,7 @@ Artificial Intelligence · Software Engineering · Intelligent Systems
 
 ---
 
-## 05. GitHub Analytics
+## 04. GitHub Analytics
 
 <p align="center">
   <picture>
