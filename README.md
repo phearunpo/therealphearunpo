@@ -77,15 +77,15 @@ focus = [
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=therealphearunpo&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=therealphearunpo&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub Statistics" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phearunpo&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=phearunpo&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub Statistics" width="480">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=therealphearunpo&amp;theme=github_dark&amp;hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=therealphearunpo&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=phearunpo&amp;theme=github_dark&amp;hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=phearunpo&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="480">
   </picture>
 </p>
 
